@@ -1,0 +1,21 @@
+{
+  "name": "testp",
+  "version": "1.0.0",
+  "description": "Ejercicio de una tabla proveniente de una base de datos relacional",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9601dani/TestP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/9601dani/TestP/issues"
+  },
+  "homepage": "https://github.com/9601dani/TestP#readme"
+}
